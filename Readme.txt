@@ -1,0 +1,1 @@
+Short program in java to play the game of battleship, as of now its just one dimensional and one ship game
